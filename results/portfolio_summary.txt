@@ -1,0 +1,11 @@
+Final Recommended Portfolio: Maximum Sharpe Ratio
+
+Asset Weights:
+- TSLA: 45.3%
+- BND: 1.2%
+- SPY: 53.5%
+
+Expected Annualized Metrics:
+- Return: 24.51%
+- Volatility: 28.10%
+- Sharpe Ratio: 0.80

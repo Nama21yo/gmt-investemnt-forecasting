@@ -1,0 +1,13 @@
+Model Performance Comparison (Test Set)
+
+ARIMA Model:
+- MAE: 8.54
+- RMSE: 10.21
+- MAPE: 4.3%
+
+LSTM Model:
+- MAE: 9.12
+- RMSE: 11.05
+- MAPE: 4.8%
+
+Conclusion: ARIMA selected for forecasting due to comparable performance and direct generation of confidence intervals.
